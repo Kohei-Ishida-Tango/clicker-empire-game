@@ -24,6 +24,3 @@ https://clicker-empire-game.vercel.app/
 $ git clone https://github.com/moyongkexing/clicker-empire-game.git
 $ cd clicker-empire-game
 ```
-
-## Author
-Twitter: [mo4g_dev](https://twitter.com/mo4g_dev)
